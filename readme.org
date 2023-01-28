@@ -1,0 +1,14 @@
+A simple game written in C using raylib.
+
+*** Getting started
+
+You need to have raylib installed to compile this game.
+
+#+BEGIN_SRC shell
+  $ make
+  $ ./tron
+#+END_SRC
+
+*** Demo
+
+[[./demo.gif]]
